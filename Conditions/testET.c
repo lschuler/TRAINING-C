@@ -6,7 +6,7 @@ int main ()
 	int age;
 	int argent;
 
-	age = 20;
+	age = 35;
 	argent = 100000;
 	if (age > 30 || argent > 100000)
 	{
